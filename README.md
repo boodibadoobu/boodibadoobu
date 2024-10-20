@@ -9,11 +9,18 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="101" height="36" alt="discord logo"  />
+  <a href="discordapp.com/users/391979187231129600" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="101" height="36" alt="discord logo"  />
+  <a/>
   <a href="https://www.instagram.com/boodibadoobu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="101" height="36" alt="Instagram Logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="101" height="36" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="101" height="36" alt="facebook logo"  />
+  <a/>
+  <a href="https://www.instagram.com/boodibadoobu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="101" height="36" alt="gmail logo"  />
+  <a/>
+  <a href="https://www.instagram.com/boodibadoobu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="101" height="36" alt="facebook logo"  />
+  <a/>
 </div>
 
 ###
