@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <a href="discordapp.com/users/391979187231129600" target="_blank">
+  <a href="https://discord.com/users/391979187231129600" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="101" height="36" alt="discord logo"  />
   <a/>
   <a href="https://www.instagram.com/boodibadoobu/" target="_blank">
