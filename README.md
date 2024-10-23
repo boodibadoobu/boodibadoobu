@@ -1,4 +1,4 @@
-<h1 align="center">Halo! Wie sind Sie?</h1>
+<h1 align="center">Halo!</h1>
 
 ###
 
